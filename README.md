@@ -8,6 +8,9 @@ The dataset contains the following features:
 - **Estimated Salary**: Estimated salary of the user.
 - **Purchased**: Binary target variable indicating if the user purchased the product (1) or not (0).
 
+- ![image](https://github.com/user-attachments/assets/1732b371-2558-41a1-902e-ebc855677bc2)
+
+
 The dataset is split into a training set (75%) and a test set (25%) to evaluate the performance of the model.
 
 ## Implementation Steps
