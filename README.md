@@ -36,6 +36,6 @@ The dataset is split into a training set (75%) and a test set (25%) to evaluate 
 
 ## Output
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/569332b5-d856-44ca-ba0a-1d0795dcc9f0" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f3afa7d4-1fb8-4f7e-b33e-5c7556d35459" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ebd6eb8d-1758-470e-b7b9-db3b02babe11" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4f44e763-71de-4985-a50b-fb393596ed52" width="45%" />
 </p>
