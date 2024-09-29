@@ -33,3 +33,5 @@ The dataset is split into a training set (75%) and a test set (25%) to evaluate 
 
 - The confusion matrix shows the performance of the model on the test set.
 - Accuracy from **k-Fold Cross Validation** is calculated, along with the standard deviation to measure the model’s reliability.c
+![image](https://github.com/user-attachments/assets/0f748b2c-598f-423f-a18f-abc25beaa6db)
+
