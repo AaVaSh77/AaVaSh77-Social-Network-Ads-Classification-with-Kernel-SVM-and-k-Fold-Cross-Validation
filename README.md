@@ -34,4 +34,8 @@ The dataset is split into a training set (75%) and a test set (25%) to evaluate 
 - Accuracy from **k-Fold Cross Validation** is calculated, along with the standard deviation to measure the model’s reliability.c
 <img src="https://github.com/user-attachments/assets/0f748b2c-598f-423f-a18f-abc25beaa6db" alt="Confusion Matrix" width="400"/>
 
-
+## Output
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d61b989-e7b1-4b03-ad5c-3afac1b5ec9f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c8c05002-350b-4f82-9beb-7f4ac38fe59c" width="45%" />
+</p>
